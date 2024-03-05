@@ -1,0 +1,32 @@
+.silder-content-item{
+    height: 100vh;
+    width: 100vw;
+    background-image: linear-gradient(to right, #8bc9e2, #82c1de);
+    overflow: hidden;
+}
+
+.silder-content-item-left{
+    width: 50%;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    padding-left: 100px ;
+}
+.silder-content-item-left-text{
+    width: 100%;
+    height: 100%;
+}
+
+.silder-content-item-right-img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.silder-content-item-icon-star{
+
+}
+
+.silder-content-item-icon-cart{
+
+}
